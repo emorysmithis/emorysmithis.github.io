@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Emory Smith"
+title                    : "Emory Smith "
 title_separator          : "-"
 name                     : &name "Emory Smith"
 description              : &description "CSE PhD Student at the University of Notre Dame"
