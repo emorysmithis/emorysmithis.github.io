@@ -1,5 +1,5 @@
 ---
-title: "Fundamentals of Computing Graduate \'Super\' TA"
+title: "Fundamentals of Computing Graduate Super TA"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-fall-teaching-1
