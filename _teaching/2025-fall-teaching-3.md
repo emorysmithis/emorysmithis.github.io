@@ -1,5 +1,5 @@
 ---
-title: "Fundamentals of Computing Graduate Super TA"
+title: "FA25 Fundamentals of Computing Graduate Super TA"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-fall-teaching-3
@@ -8,7 +8,7 @@ date: 2025-08-23
 location: "Notre Dame, IN"
 ---
 
-Graduate "Super" TA for Fundamentals of Computing CSE20311 Fall 2024. 
+Graduate "Super" TA for Fundamentals of Computing CSE20311 Fall 2025. 
 
 Responsibilities
 ======
