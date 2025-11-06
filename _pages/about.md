@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# About Me 
-
 I am a Computer Science and Engineering Ph.D student at the University of Notre Dame advised by [Dr. Collin McMillan](https://sdf.org/~cmc/) in the [Automatic Program Comprehension Lab](https://github.com/apcl-research). 
 
 My research centers on studying the human visual attention of software engineers. I am especially interested in the mechanical and cognitive ways people solve problems. 
