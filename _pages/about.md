@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Emory Smith"
+title: "About Emory Michaels"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 I am a Computer Science and Engineering Ph.D student at the University of Notre Dame advised by [Dr. Collin McMillan](https://sdf.org/~cmc/) in the [Automatic Program Comprehension Lab](https://github.com/apcl-research). 
+
+For March and April 2026, I am a visiting scholar at Vanderbilt University working with [Dr. Yu Huang](https://yuhuang-lab.github.io/). 
 
 My research centers on studying the human visual attention of software engineers. I am especially interested in the mechanical and cognitive ways people solve problems. 
 I conduct human studies and utilize an eye-tracker to study the visual attention of programmers. 

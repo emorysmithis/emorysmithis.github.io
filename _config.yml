@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Emory Smith "
+title                    : "Emory Michaels "
 title_separator          : "-"
-name                     : &name "Emory Smith"
+name                     : &name "Emory Michaels"
 description              : &description "CSE PhD Student at the University of Notre Dame"
-url                      : https://emorysmithis.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://emorymichaelsis.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "emorysmithis/emorysmithis.github.io"
+repository               : "emorymichaelsis/emorymichaelsis.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,13 +23,13 @@ repository               : "emorysmithis/emorysmithis.github.io"
 author:
   # Biographic information
   avatar           : "profile_emory.jpg"
-  name             : "Emory Smith"
+  name             : "Emory Michaels"
   pronouns         : "she/her"  
   bio              : "CSE PhD Student at the University of Notre Dame"
   location         : "South Bend, IN"
   employer         : "University of Notre Dame"
   uri              : # URL
-  email            : "emorysmithis@gmail.com" 
+  email            : "emorymichaelsis@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -47,6 +47,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "emorysmithis" # Username - Update with your username on the site
+  github           : "emorymichaelsis" # Username - Update with your username on the site
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -60,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : www.linkedin.com/in/emorysmith
+  linkedin         : www.linkedin.com/in/emorymichaels
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
